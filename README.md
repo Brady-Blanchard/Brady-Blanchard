@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MysticsGitHub
 - 👀 I’m interested in video games and anime
-- 🌱 I’m currently learning javascripting, html css, CLI, github
+- 🌱 I’m currently learning javascripting, HTML, CSS, CLI, github
 - 💞️ I’m looking to collaborate on Group projects
 - 📫 How to reach me bradyjames97@hotmail.com
 
