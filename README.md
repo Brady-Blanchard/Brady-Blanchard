@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MysticsGitHub
+- 👋 Hi, I’m @Brady-Blanchard
 - 👀 I’m interested in video games and anime
 - 🌱 I’m currently learning javascripting, HTML, CSS, CLI, github
 - 💞️ I’m looking to collaborate on Group projects
