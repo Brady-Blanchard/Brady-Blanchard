@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Brady-Blanchard
-- 👀 I’m interested in video games and anime
-- 🌱 I’m currently learning javascript, HTML, CSS, CLI, github
-- 💞️ I’m looking to collaborate on Group projects
+- 👀 I’m interested in Networking, Programming, and A.I.
+- 🏫 I’m currently studying Networking for the CCNA exam 
+- ✏️ I have learned about Javascript, HTML, CSS, CLI, Github, and npm
 - 📫 How to reach me bradyjames97@hotmail.com
 
 <!---
